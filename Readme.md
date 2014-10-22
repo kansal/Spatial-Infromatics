@@ -4,9 +4,9 @@ the city of London. This framework can also be used for finding if the city is w
 vulnerable. 
 
 The Four Models developed are
-1. Euclidean Model
-1. Connectivity Model
-1. Traffic Model
-1. Population Model
+1 Euclidean Model
+2 Connectivity Model
+3 Traffic Model
+4 Population Model
 
 The simulations were done on QGIS, an open-source software from OSGeo.
