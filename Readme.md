@@ -3,10 +3,10 @@ The project aims at finding the *fire rescue response* time for a city. We have 
 the city of London. This framework can also be used for finding if the city is well protected or not and identify areas which are 
 vulnerable. 
 
-The Four Models developed are:-
+The Four Models developed are
 1. Euclidean Model
-2. Connectivity Model
-3. Traffic Model
-4. Population Model
+1. Connectivity Model
+1. Traffic Model
+1. Population Model
 
 The simulations were done on QGIS, an open-source software from OSGeo.
