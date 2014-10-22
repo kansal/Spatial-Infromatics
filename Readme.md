@@ -4,6 +4,7 @@ the city of London. This framework can also be used for finding if the city is w
 vulnerable. 
 
 The Four Models developed are
+
 1. Euclidean Model.
 2. Connectivity Model.
 3. Traffic Model.
